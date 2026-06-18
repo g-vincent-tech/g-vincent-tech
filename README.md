@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Technical Domain Overview
+### 🚀 Technical Domain Overview   
 I am a Senior Software Engineer with **14+ years of experience** specializing in high-availability distributed systems, cloud infrastructure, and large-scale mobile application runtimes. Having spent my career delivering business-critical features at both **Google** and **Amazon**, I focus on building resilient backend services that connect smoothly with high-performance client architectures.
 
 ---
