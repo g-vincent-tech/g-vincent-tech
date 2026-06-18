@@ -67,5 +67,5 @@ I am a Senior Software Engineer with **14+ years of experience** specializing in
 ---
 
 ### 📫 Contact & Verification
-*   **LinkedIn Profile:** [://linkedin.com]([https://linkedin.com](https://www.linkedin.com/in/george-vincent/))
+*   **LinkedIn Profile:** [[://linkedin.com](https://www.linkedin.com/in/george-vincent/)]([https://linkedin.com](https://www.linkedin.com/in/george-vincent/))
 *   **Direct Outreach:** g.vincent.tech@gmail.com
