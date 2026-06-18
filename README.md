@@ -40,7 +40,7 @@ I am a Senior Software Engineer with **14+ years of experience** specializing in
 ---
 
 ### 📐 Interactive Architectural Deep Dives
-*Click the dropdowns to view my engineering approaches to common scaling bottlenecks.*
+*Click the dropdowns to view my engineering approaches to common scaling bottlenecks. *
 
 <details>
 <summary><b>⚡ Caching & Database Latency Mitigation</b></summary>
