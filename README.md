@@ -12,7 +12,7 @@ I am a Senior Software Engineer with **14+ years of experience** specializing in
 ### 🛠️ Core Technology Matrix
 
 | Layer | Technologies & Frameworks |
-| :--- | :--- |
+| :--- | :--- |  
 | **Backend & Languages** | Java, Python, Microservices, REST APIs, Service-Oriented Architecture (SOA) |
 | **Cloud & DevOps** | Amazon Web Services (AWS), Docker, CI/CD Automations, Systems Monitoring |
 | **Mobile Runtimes** | iOS Core, Swift, Objective-C, Flutter/Dart, Lifecycle Management |
